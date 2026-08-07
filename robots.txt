@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-8nddcm.maximofftoiture.fr/sitemap.xml
